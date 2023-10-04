@@ -2,6 +2,7 @@
 
 <p align="center">
 Desenvolvido por Ivan Barbosa em conjunto com a Rocktseat<br>
+Veja o video do projeto<br><a href="https://www.linkedin.com/posts/ivanbarbosa2_rocketseat-rocketseat-reactjs-activity-7115362398164688896-jAYR?utm_source=share&utm_medium=member_desktop">CLICANDO AQUI!</a> <br>
 </p>
 
 <div align="center">
@@ -38,11 +39,11 @@ Para o Cliente, usamos:
 
 ## 💻 Clone e acesse o projeto
 ------------
-    `https://github.com/ivanbs14/Future.git`
+    `https://github.com/ivanbs14/Upload_AI_web.git`
 
     or 
 
-    `gh repo clone ivanbs14/Future`
+    `gh repo clone ivanbs14/Upload_AI_web`
 
 ## 💻 Configurar e executar cliente
 ------------
